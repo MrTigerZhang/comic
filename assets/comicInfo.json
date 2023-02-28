@@ -1,0 +1,79 @@
+{
+    "code": 200,
+    "data": {
+        "title": "勇闯西三环",
+        "fav": 0,
+        "id": 8964,
+        "icon": "static/picture/037.jpg",
+        "tags": [
+            "权谋TOP10",
+            "噔dua郎必看"
+        ],
+        "grade": 8.1,
+        "memberRate": 666,
+        "desc": "有着神秘身世的少年范闲，自儋州初出茅庐，历经家族、江湖、庙堂的种种考验、锤炼，一步步揭露这世界的复杂真相……",
+        "authors": [
+            {
+                "name": "绘世TONY",
+                "avatar": "static/picture/fc18d0860b80498db5f4fba14be21363.gif"
+            },
+            {
+                "name": "拖拖",
+                "avatar": "static/picture/aff0fde659704962a15bc2996bd7e7b0.gif"
+            }
+        ],
+        "status": "已完结",
+        "updatedChapter": 21,
+        "tryReadChapter": 11,
+        "chapters": [
+            {
+                "id": 653208,
+                "dataCid": 2142,
+                "seq": 1,
+                "image": "static/picture/ecb76c106592477092f47bc929046ee7.gif",
+                "title": "1 - 1.神秘少女",
+                "lock": 1
+            },
+            {
+                "id": 653208,
+                "dataCid": 2143,
+                "seq": 2,
+                "image": "static/picture/b8afcedb0e494feb84a4dd88f5e4e5d3.gif",
+                "title": "2 - 2.回到人世间",
+                "lock": 1
+            },
+            {
+                "id": 653208,
+                "dataCid": 2144,
+                "seq": 3,
+                "image": "static/picture/c5954aa4532f4317a815343320f0978e.gif",
+                "title": "3 - 3.少爷打我，天经地义",
+                "lock": 1
+            },
+            {
+                "id": 653208,
+                "dataCid": 2145,
+                "seq": 4,
+                "image": "static/picture/5937d1fa6db0449eacb91dd15564bc26.gif",
+                "title": "4 - 4.深夜来客",
+                "lock": 1
+            },
+            {
+                "id": 653208,
+                "dataCid": 2146,
+                "seq": 5,
+                "image": "static/picture/4a083abffa4446c68da1a4924f7e1ef6.gif",
+                "title": "5 - 5.自己人",
+                "lock": 1
+            },
+            {
+                "id": 653208,
+                "dataCid": 2147,
+                "seq": 6,
+                "image": "static/picture/79c0f083184441e89aa5fded3e6314a0.gif",
+                "title": "6 - 6.坟场挖尸",
+                "lock": 1
+            }
+        ]
+    }
+}

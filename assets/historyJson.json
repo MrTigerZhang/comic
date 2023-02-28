@@ -1,0 +1,36 @@
+{
+    "code": 200,
+    "data": {
+        "maxPage": 1,
+        "data": [
+            {
+                "hisId": 1,
+                "id": 1,
+                "title": "漫画1",
+                "artist_name": "作者1",
+                "lated_seqno": 10,
+                "seq": 5,
+                "cover": "static/picture/011.jpg"
+            },
+            {
+                "hisId": 2,
+                "id": 2,
+                "title": "漫画2",
+                "artist": "作者2",
+                "lated_seqno": 15,
+                "seq": 8,
+                "chapter_id": 100,
+                "cover": "static/picture/011.jpg"
+            },
+            {
+                "hisId": 3,
+                "id": 3,
+                "title": "漫画3",
+                "artist_name": "作者3",
+                "seq": 1,
+                "chapter_id": 200,
+                "cover": "static/picture/011.jpg"
+            }
+        ]
+    }
+}

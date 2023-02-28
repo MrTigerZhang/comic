@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "data": {
+        "totalCount": 10,
+        "seqTitle": "第一话，初来北京",
+        "price": 10,
+        "balance": 480,
+        "lock": 2,
+        "count": 3,
+        "chapters": {
+            "seq": 1,
+            "pics": [
+                {
+                    "index": 0,
+                    "timeout": 8000,
+                    "url": "static/picture2/800.jpeg"
+                },
+                {
+                    "index": 1,
+                    "timeout": 8000,
+                    "url": "static/picture2/801.png"
+                },
+                {
+                    "index": 2,
+                    "timeout": 8000,
+                    "url": "static/picture2/803.png"
+                }
+            ]
+        }
+    }
+}

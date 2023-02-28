@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "hotSearchTitle": "大家都在搜",
+    "hotSearchList": [
+      {
+        "id": 638790,
+        "title": "斗罗大陆4终极斗罗",
+        "desc": "守护我方轩宇，千秋在线刚枪",
+        "cover": "static/picture/210.png"
+      },
+      {
+        "id": 551072,
+        "title": "英雄再临（英雄？我早就不当了）",
+        "desc": "退休英雄的复出",
+        "cover": "static/picture/210.png"
+      },
+      {
+        "id": 647316,
+        "title": "地球尽头",
+        "desc": "五个地球",
+        "cover": "static/picture/210.png"
+      }
+    ]
+  }
+}

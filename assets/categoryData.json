@@ -1,0 +1,70 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": 1,
+            "name": "恋爱",
+            "cover": "static/picture2/0.png"
+        },
+        {
+            "id": 1,
+            "name": "玄幻",
+            "cover": "static/picture2/01.png"
+        },
+        {
+            "id": 1,
+            "name": "热血",
+            "cover": "static/picture2/02.png"
+        },
+        {
+            "id": 1,
+            "name": "悬疑",
+            "cover": "static/picture2/03.png"
+        },
+        {
+            "id": 1,
+            "name": "少女",
+            "cover": "static/picture2/04.png"
+        },
+        {
+            "id": 1,
+            "name": "韩漫",
+            "cover": "static/picture2/05.png"
+        },
+        {
+            "id": 1,
+            "name": "科幻",
+            "cover": "static/picture2/06.png"
+        },
+        {
+            "id": 1,
+            "name": "逗比",
+            "cover": "static/picture2/07.png"
+        },
+        {
+            "id": 1,
+            "name": "校园",
+            "cover": "static/picture2/08.png"
+        },
+        {
+            "id": 1,
+            "name": "都市",
+            "cover": "static/picture2/09.png"
+        },
+        {
+            "id": 1,
+            "name": "治愈",
+            "cover": "static/picture2/010.png"
+        },
+        {
+            "id": 1,
+            "name": "恐怖",
+            "cover": "static/picture2/011.png"
+        },
+        {
+            "id": 1,
+            "name": "妖怪",
+            "cover": "static/picture2/012.png"
+        }
+    ]
+}

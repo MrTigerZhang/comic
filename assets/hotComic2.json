@@ -1,0 +1,32 @@
+{
+  "code": 200,
+  "data": {
+    "titleContent": "精品-好康打滚推荐！",
+    "comics": [
+      {
+        "id": "629503",
+        "title": "全职法师",
+        "description": "卧槽牛逼",
+        "imageSrc": "static/picture/010.jpg"
+      },
+      {
+        "id": "651476",
+        "title": "驱神",
+        "description": "牛逼7777",
+        "imageSrc": "static/picture/011.jpg"
+      },
+      {
+        "id": "651263",
+        "title": "我在异界当教父",
+        "description": "这这年轻人",
+        "imageSrc": "static/picture/012.jpg"
+      },
+      {
+        "id": "649860",
+        "title": "极品家丁",
+        "description": "我艹",
+        "imageSrc": "static/picture/013.jpg"
+      }
+    ]
+  }
+}
